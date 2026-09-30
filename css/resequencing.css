@@ -9,16 +9,3 @@ table {
 td { 
   border: 3px solid #9900cc; 
 }
-
-img {
- /*width: 30vw; */
-}
-
-.wide { 
- /* width: 100%; */
-}
-
-.square { 
-  background-image: url("img/cyano_horse2.png");
-  background-size: auto 25%;
-}
