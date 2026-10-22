@@ -1,0 +1,22 @@
+body {
+    background: #666699;
+}
+
+canvas {
+    max-width: 80vw;
+    max-height: 80vh;
+    border: 1px dashed black;
+    background-color: black;
+}
+
+figcaption {
+    color: #eee;
+    font-family: sans-serif;
+}
+
+.centerbox {
+    text-align: center;
+}
+.titlefont {
+    font-family: Arial, sans-serif;
+}
