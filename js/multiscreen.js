@@ -187,9 +187,14 @@ let usersManual = document.createElement("p");
 usersManual.innerHTML = "<h3>Introduction</h3>" +
 "These screens are selected from a long time Japanese TV series 'Ultraman'. They are originated from different periods: " +
 "the 1960s, 1970s and 1990s respectively. You can interact with these screens using the following methods.<br>" +
-"<ul><li>Mouse On: When you put your mouse on any one of the screens, it will shows you the connection this screen with the others.</li>" +
+"<ul><li>Mouse On: When you put your mouse on any one of the screens, it will show you the connection this screen with the others.</li>" +
 "<li>Connection: The connection will be displayed as a highlight color at the border of the screen. Yellow border means they were " +
 "come from the same period.</li>" +
-"<li>Comparison: Other highlight colors are also used to displayed the comparison of these screens from different periods.</li>" +
-"<li>Red Highlight: It is to hightlight the opening and song.</li>";
+"<li>Comparison: Other highlight colors are also used to display the comparison of these screens from different periods.</li>" +
+"<li>Red Highlight: It is to hightlight the opening and theme song. You can compare their style of design.</li>" +
+"<li>Green Highlight: It is to highlight the fashion and dressing of the 'Rangers' from different periods.</li>" +
+"<li>Blue Highlight: It is to highlight the transformation (Henshin) of Ultraman. A lot of change on the outlook and material to produce the costume but something still persists.</li>" +
+"<li>Mouse Off: All highlight will be removed.</li>" +
+"<li>Mouse Click: For the top row of screens if you click on a screen you will be able to hear the theme song. Click again to mute it. For all the other screens, to make it a bit fun, if you click " +
+"on it, you will randomly hear a 'Monster Roar' or the signature 'Shuwat' grunt from Ultraman!</li>";
 document.body.appendChild(usersManual);
